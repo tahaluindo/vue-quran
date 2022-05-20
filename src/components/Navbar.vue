@@ -16,7 +16,7 @@ export default {
                 <router-link to="/" class="btn btn-ghost normal-case text-xl">Al-Qur'an App</router-link>
             </div>
             <div class="flex-none">
-                <a href="https://github.com/rizkraf" target="_blank" class="btn btn-square btn-ghost">
+                <a href="https://github.com/koleksibot" target="_blank" class="btn btn-square btn-ghost">
                     <svg width="20" height="20" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"
                         class="inline-block h-5 w-5 fill-current md:h-6 md:w-6">
                         <path
