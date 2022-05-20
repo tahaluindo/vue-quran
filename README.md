@@ -3,7 +3,7 @@
 
 Website Al-Qur'an yang dibuat dengan Vue 3 Options API dan Tailwind CSS.
 
-- [Live Site](https://quran-digiweb.vercel.app/)
+- [Live Site](https://http://vue-quran.vercel.app/)
 - [API](https://github.com/gadingnst/quran-api)
 
 ## Screenshots
